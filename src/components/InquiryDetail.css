@@ -1,0 +1,15 @@
+.inquiry-detail-container {
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .inquiry-detail-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .inquiry-detail-container p {
+    margin-bottom: 10px;
+  }
+  

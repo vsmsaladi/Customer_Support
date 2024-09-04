@@ -1,0 +1,26 @@
+.inquiry-list-container {
+    padding: 20px;
+  }
+  
+  .inquiry-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .inquiry-list li {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .inquiry-list li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .inquiry-list li a:hover {
+    text-decoration: underline;
+  }
+  
